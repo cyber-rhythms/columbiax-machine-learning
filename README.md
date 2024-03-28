@@ -30,6 +30,7 @@ For those looking to work through this course, this repository contains:
 TODO:
 
 - Upload the edX homework assignments as Markdown files.
+- Write your blog page for this.
 
 
 
